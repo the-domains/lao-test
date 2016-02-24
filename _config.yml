@@ -1,28 +1,40 @@
-name: LAO Test
-favicon: null
-layout_spectrum: 0.48689
-typography_spectrum: 0.10832021315582097
-cta:
-  domain: null
-  bucket: null
-  version: null
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
-  brandStrength: 0.3056496325880289
-  lightness: 0.15079798083752394
-  saturation: 0.42254501674324274
-  rhythmicContrast: 0.953341914108023
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 purpose: []
+color:
+  saturation: 0.4225450167432427
+  brandStrength: 0.8093448
+  lightness: 0.1507979808375239
+  brandColors:
+    - '#651F01'
+    - '#FFFFFF'
+    - '#170C0C'
+    - '#918888'
+    - '#9A5C39'
+  rhythmicContrast: 0.953341914108023
+typography_spectrum: 0.8823845
+cta:
+  bucket: null
+  version: null
+  domain: null
+layout_spectrum: 0.3474758
+favicon: null
+name: LAO Test
