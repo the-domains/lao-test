@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[LAO Test]]></title>
-        <description><![CDATA[LAO Test]]></description>
+        <title><![CDATA[LAO]]></title>
+        <description><![CDATA[LAO]]></description>
         <link>https://thegrid.ai/lao-test/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 24 Feb 2016 20:02:45 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Feb 2016 20:43:31 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/lao-test/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/lao-test/aa7a5514-6bdb-4761-bfd8-51c28d84ce1b/index.html</link>
             <guid isPermaLink="false">aa7a5514-6bdb-4761-bfd8-51c28d84ce1b</guid>
             <pubDate>Wed, 24 Feb 2016 19:06:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/0f427bac-94d9-4f60-aa2d-6b8e5655c15f.JPG">]]></description>
+            <link>https://thegrid.ai/lao-test/cd01d8dc-aa0d-46f8-9da9-90b7340ba611/index.html</link>
+            <guid isPermaLink="false">cd01d8dc-aa0d-46f8-9da9-90b7340ba611</guid>
+            <pubDate>Wed, 24 Feb 2016 20:43:12 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
