@@ -1,7 +1,7 @@
 name: LAO Test
 favicon: null
 layout_spectrum: 0.3474758
-typography_spectrum: 0.8780881
+typography_spectrum: 0.42684
 collections:
   - index:
       path: /
